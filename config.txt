@@ -1,13 +1,13 @@
 {
-  "launcher_version": "1.1.0",
-  "launcher_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v1.1.0/Minecraft_Launcher_update_1.1.0.zip",
+  "launcher_version": "1.1.1",
+  "launcher_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v1.1.1/Minecraft_Launcher_update_1.1.1.zip",
   "launcher_hash": "",
   "builds": [
     {
       "name": "Vanilla SS",
       "version": "1.21.1",
       "modpack_version": "2.1",
-      "download_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v1.1.0/Vanilla.SS.zip",
+      "download_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v1.1.1/Vanilla.SS.zip",
       "icon": "icon.png",
       "mod_loader": "neoforge",
       "java_version": "21"
