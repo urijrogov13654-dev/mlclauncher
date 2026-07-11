@@ -4,6 +4,15 @@
   "launcher_hash": "",
   "builds": [
     {
+      "name": "TEST",
+      "version": "1.20.1",
+      "modpack_version": "1.0.0",
+      "download_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v1.1.1/TEST.zip",
+      "icon": "icon.png",
+      "mod_loader": "vanilla",
+      "java_version": "17"
+    },
+    {
       "name": "Vanilla SS",
       "version": "1.21.1",
       "modpack_version": "2.1",
