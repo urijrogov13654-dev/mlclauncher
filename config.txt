@@ -1,6 +1,6 @@
 {
-  "launcher_version": "1.1.6",
-  "launcher_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v1.1.6/Minecraft_Launcher_update_1.1.6.zip",
+  "launcher_version": "1.1.7",
+  "launcher_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v1.1.7/Minecraft_Launcher_update_1.1.7.zip",
   "launcher_hash": "",
   "builds": [
     {
