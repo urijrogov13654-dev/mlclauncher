@@ -1,7 +1,7 @@
 {
-  "launcher_version": "1.3.4",
-  "launcher_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v1.3.4/Minecraft_Launcher_update_1.3.4.zip",
-  "launcher_hash": "63c1a154fed94f5e1110a68b8225e8a4ede5060518b78bc11b4da6f9c1dad69d",
+  "launcher_version": "1.3.5",
+  "launcher_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v1.3.5/Minecraft_Launcher_update_1.3.5.zip",
+  "launcher_hash": "e23ddcb1e557b59f57e1693e3452935e2f57265b93c6e7d5e697883ef9404867",
   "builds": [
     {
       "name": "TEST",
