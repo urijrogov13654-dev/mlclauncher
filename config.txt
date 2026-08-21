@@ -50,18 +50,6 @@
       "description": "",
       "client_mods": [],
       "servers": []
-    },
-    {
-      "name": "1.16.5",
-      "version": "1.16.5",
-      "modpack_version": "1.0.0",
-      "download_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v1.3.9/1.16.5.zip",
-      "icon": "icon.png",
-      "mod_loader": "vanilla",
-      "java_version": "17",
-      "description": "",
-      "client_mods": [],
-      "servers": []
     }
   ]
 }
