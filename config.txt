@@ -14,6 +14,18 @@
       "description": "",
       "client_mods": [],
       "servers": []
+    },
+    {
+      "name": "4",
+      "version": "1.7.10",
+      "modpack_version": "1.0.0",
+      "download_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v1.4.6/4.zip",
+      "icon": "icon.png",
+      "mod_loader": "forge",
+      "java_version": "8",
+      "description": "",
+      "client_mods": [],
+      "servers": []
     }
   ]
 }
