@@ -54,7 +54,7 @@
     {
       "name": "5",
       "version": "1.7.10",
-      "modpack_version": "1.0.0",
+      "modpack_version": "1.0.1",
       "download_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v1.4.6/5.zip",
       "icon": "icon.png",
       "mod_loader": "forge",
