@@ -26,6 +26,18 @@
       "description": "",
       "client_mods": [],
       "servers": []
+    },
+    {
+      "name": "3",
+      "version": "26.2",
+      "modpack_version": "1.0.0",
+      "download_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v1.4.6/3.zip",
+      "icon": "icon.png",
+      "mod_loader": "vanilla",
+      "java_version": "25",
+      "description": "",
+      "client_mods": [],
+      "servers": []
     }
   ]
 }
