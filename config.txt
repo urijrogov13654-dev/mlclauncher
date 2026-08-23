@@ -44,11 +44,10 @@
     {
       "name": "2",
       "version": "1.12.2",
-      "modpack_version": "1.0.0",
+      "modpack_version": "1.0.1",
       "download_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v1.6.5/2.zip",
-      "panorama": "",
+      "panorama": "panorama.png",
       "mod_loader": "vanilla",
-      "mod_loader_version": "",
       "java_version": "8",
       "description": "",
       "client_mods": [],
