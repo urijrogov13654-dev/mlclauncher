@@ -10,7 +10,6 @@
       "download_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v1.6.5/1.zip",
       "panorama": "",
       "mod_loader": "vanilla",
-      "mod_loader_version": "",
       "java_version": "17",
       "description": "Лучшее чудо мира",
       "client_mods": [],
