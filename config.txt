@@ -158,6 +158,24 @@
       "description": "",
       "client_mods": [],
       "servers": []
+    },
+    {
+      "name": "GenezisCraft",
+      "version": "1.20.1",
+      "modpack_version": "1.0.0",
+      "download_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v2.4.2/GenezisCraft.zip",
+      "sha256": "593ebf4b496e6ec0a8e1ed979cd5e7d955723deef41ed6c5b083073be5871dc9",
+      "size_bytes": 113781247,
+      "size_extracted": 131515102,
+      "client_size_bytes": 740489606,
+      "loader_size_bytes": 8836161,
+      "panorama": "panorama.png",
+      "mod_loader": "forge",
+      "mod_loader_version": "47.4.23",
+      "java_version": "17",
+      "description": "Oscarenot - puska pushka",
+      "client_mods": [],
+      "servers": []
     }
   ]
 }
