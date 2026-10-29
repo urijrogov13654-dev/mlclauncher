@@ -1,7 +1,7 @@
 {
-  "launcher_version": "2.4.4",
-  "launcher_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v2.4.4/Minecraft_Launcher_update_2.4.4.zip",
-  "launcher_hash": "d312680f42e6f4f1bfcf812e159361e4a21926c32c4642f01c8193a8b4848a88",
+  "launcher_version": "2.4.5",
+  "launcher_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v2.4.5/Minecraft_Launcher_update_2.4.5.zip",
+  "launcher_hash": "fc03d3abfacc6cd03ae4a39300340d8cbb08275cf3e90d538395a44dc8dd9076",
   "builds": [
     {
       "name": "1",
@@ -109,11 +109,11 @@
       "name": "GGPIPA",
       "version": "1.20.1",
       "modpack_version": "1.0.0",
-      "download_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v2.4.4/GGPIPA.zip",
+      "download_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v2.4.5/GGPIPA.zip",
       "sha256": "8703f9eeaff1ad7e99f8e0b60ead5184fecde55b4d56ae94d63ec6efe1802926",
       "size_bytes": 2027825,
       "size_extracted": 2027099,
-      "client_size_bytes": 740553692,
+      "client_size_bytes": 740699445,
       "loader_size_bytes": 0,
       "panorama": "panorama.png",
       "mod_loader": "vanilla",
@@ -121,17 +121,24 @@
       "java_version": "17",
       "description": "",
       "client_mods": [],
-      "servers": []
+      "servers": [],
+      "min_ram_mb": 4096,
+      "recommended_ram_mb": 6144,
+      "tags": [
+        "vanilla",
+        "1.20.1"
+      ],
+      "banner_url": ""
     },
     {
       "name": "New",
       "version": "26.3",
       "modpack_version": "1.0.0",
-      "download_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v2.4.4/New.zip",
+      "download_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v2.4.5/New.zip",
       "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
       "size_bytes": 22,
       "size_extracted": 0,
-      "client_size_bytes": 643623426,
+      "client_size_bytes": 643769179,
       "loader_size_bytes": 0,
       "panorama": "panorama.png",
       "mod_loader": "vanilla",
@@ -139,13 +146,20 @@
       "java_version": "25",
       "description": "",
       "client_mods": [],
-      "servers": []
+      "servers": [],
+      "min_ram_mb": 4096,
+      "recommended_ram_mb": 6144,
+      "tags": [
+        "vanilla",
+        "26.3"
+      ],
+      "banner_url": ""
     },
     {
       "name": "old",
       "version": "1.8",
       "modpack_version": "1.0.0",
-      "download_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v2.4.4/old.zip",
+      "download_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v2.4.5/old.zip",
       "sha256": "8739c76e681f900923b900c9df0ef75cf421d39cabb54650c4b9ad19b6a76d85",
       "size_bytes": 22,
       "size_extracted": 0,
@@ -157,7 +171,14 @@
       "java_version": "8",
       "description": "",
       "client_mods": [],
-      "servers": []
+      "servers": [],
+      "min_ram_mb": 4096,
+      "recommended_ram_mb": 6144,
+      "tags": [
+        "vanilla",
+        "1.8"
+      ],
+      "banner_url": ""
     },
     {
       "name": "GenezisCraft",
@@ -203,6 +224,40 @@
       "description": "",
       "client_mods": [],
       "servers": []
+    },
+    {
+      "name": "GenezisTest",
+      "version": "1.20.1",
+      "modpack_version": "1.0.0",
+      "download_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v2.4.5/GenezisTest.zip",
+      "sha256": "f227390cdcc47426160bd3815676b49fa3b3a2385cd2fded0ffc9c75188a3caa",
+      "size_bytes": 35073870,
+      "size_extracted": 38687778,
+      "client_size_bytes": 740699445,
+      "loader_size_bytes": 8836161,
+      "panorama": "panorama.png",
+      "mod_loader": "forge",
+      "mod_loader_version": "47.4.23",
+      "java_version": "17",
+      "description": "",
+      "client_mods": [
+        {
+          "name": "geneziscore-1.0.0",
+          "enabled_by_default": true
+        },
+        {
+          "name": "gineziscraftz-10.0.0",
+          "enabled_by_default": true
+        }
+      ],
+      "servers": [],
+      "min_ram_mb": 4096,
+      "recommended_ram_mb": 6144,
+      "tags": [
+        "forge",
+        "1.20.1"
+      ],
+      "banner_url": ""
     }
   ]
 }
