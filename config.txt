@@ -258,6 +258,33 @@
         "1.20.1"
       ],
       "banner_url": ""
+    },
+    {
+      "name": "MYER",
+      "version": "1.21.11",
+      "modpack_version": "1.0.0",
+      "download_url": "https://github.com/urijrogov13654-dev/mlclauncher/releases/download/v2.4.5/MYER.zip",
+      "sha256": "f7e8909baabfab3aaa1601cb60ad7e3f7f0a0fe74fd7953efc28acf520ba7abb",
+      "size_bytes": 3189590,
+      "size_extracted": 3242450,
+      "client_size_bytes": 562411393,
+      "loader_size_bytes": 1988880,
+      "panorama": "panorama.png",
+      "mod_loader": "fabric",
+      "mod_loader_version": "0.20.1",
+      "java_version": "21",
+      "description": "",
+      "client_mods": [
+        {
+          "enabled_by_default": true,
+          "name": "effortlessbuilding-4.11.21.11"
+        },
+        {
+          "enabled_by_default": true,
+          "name": "fabric-api-0.141.61.21.11"
+        }
+      ],
+      "servers": []
     }
   ]
 }
